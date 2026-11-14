@@ -1,0 +1,845 @@
+{
+ "lang": "ewondo",
+ "entries": [
+  {
+   "fr": "Bienvenue sur votre espace bancaire.",
+   "tr": "Bëkëlë a ebaṅ dzan",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Votre solde est masqué. Appuyez pour l'afficher.",
+   "tr": "Elig dzaan enë osëkë. Kiki na osusua dzò.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Appuyez ici pour masquer votre solde.",
+   "tr": "Tag nyè etsaman eyòṅ dzaan.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Que voulez-vous faire aujourd'hui ?",
+   "tr": "Dze yə miayi bò a di ?",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Aucun frais pour cette opération.",
+   "tr": "Mbòg ya etere.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Les frais sont inclus dans le montant.",
+   "tr": "Bod bësë yalan ai mòni.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Le transfert entre comptes de la même banque est gratuit.",
+   "tr": "Nkòbògò a nda-bëngabë nala onë dzam bò fili.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Calcul des frais en cours.",
+   "tr": "Calègè angënë etere.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Impossible de calculer les frais pour le moment.",
+   "tr": "Anë hm tègè yë na akyaè etye etye te.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Ajouter un nouveau bénéficiaire",
+   "tr": "Ngë mod nkukuma",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Enregistrer ce bénéficiaire pour la prochaine fois",
+   "tr": "Nagëlë ebii nyi eyòṅ kuan",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Bénéficiaire : {beneficiaire}",
+   "tr": "Bene: {beneficiaire}",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Numéro du bénéficiaire : {telephone}",
+   "tr": "Ndò fë nkukuma: {telephone}",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Ce numéro n'est pas enregistré dans votre liste de bénéficiaires.",
+   "tr": "Ndò eyòṅ nala ongabë ki engabò a ebipten dzan.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Ajoutez une référence pour retrouver ce transfert.",
+   "tr": "Ngë dzoe na akë dzò kui a nnëm etere.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Saisissez le numéro sans espace.",
+   "tr": "Ngë nkòbò tègè ai abim.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Montant en FCFA",
+   "tr": "Mvaa",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Tout est correct ?",
+   "tr": "Yë onë nkukuma ngoge ?",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Votre transfert est en cours de traitement.",
+   "tr": "Mvòṅan efas nyi engënë mvoè.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Votre transfert est en attente de validation.",
+   "tr": "Mfa woe, mvòm ongatëbë ai nala.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Faire un autre transfert",
+   "tr": "Ekoan mfëk",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Retour à l'accueil",
+   "tr": "Kusnë a nkòbò",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Le reçu est disponible dans votre historique.",
+   "tr": "Ntilan mbòg akëlë a anyu dzaan.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Déconnectez-vous après avoir utilisé l'application.",
+   "tr": "Dzogogan eyòṅ mbòg.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Une connexion inhabituelle a été détectée sur votre compte.",
+   "tr": "Antëb nkòbò nala ongavëban a nyòl dzan.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Votre session va expirer dans {minutes} minutes.",
+   "tr": "yian ayi kui angakui a {minutes} mintòm.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Personne d'autre ne doit connaître votre code PIN.",
+   "tr": "E mod ziṅ afëki dzam yëm nkòbò dzan.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Appelez le service client en cas de doute.",
+   "tr": "loe eyòṅ mbòg asu yë na të mbëṅ.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Solde insuffisant pour effectuer cette opération.",
+   "tr": "Tègè ai nnëm osu.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Le montant saisi est invalide.",
+   "tr": "Mvòm efaè mayi këlë.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Cette opération n'est pas autorisée.",
+   "tr": "Nala ongabë ki nala.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Le bénéficiaire est introuvable.",
+   "tr": "Benefim akòbògò kòm.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Le compte du bénéficiaire est bloqué.",
+   "tr": "Ngë nlò nlugu wabò nala.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Le code de confirmation a expiré. Demandez un nouveau code.",
+   "tr": "Ndzog ayi dzèè zamgbal. Siligan akëṅan akuma.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Le transfert n'a pas pu être effectué. Aucun montant n'a été retiré.",
+   "tr": "Tègè ai e dzom ziṅ esëki dzam bò.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Aucun résultat trouvé.",
+   "tr": "Ngul esò",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Cette fonction n'est pas disponible pour le moment.",
+   "tr": "Ndò fòg te asëki dzam ben.",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Mise à jour de l'application requise.",
+   "tr": "Mvende efunga",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Il vous reste 3 essais.",
+   "tr": "Mina bësòòlò 3 mbòg",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Le code est valable 5 minutes.",
+   "tr": "Ndòg dzia onë hm 5 mintèd.",
+   "status": "valide",
+   "critique": true
+  },
+  {
+   "fr": "Retrait de {montant} FCFA effectué chez l'agent {agent}.",
+   "tr": "Ngë dzam woe otsaag {montant} fufulu asu bisagi {agent}.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Votre compte mobile money est activé.",
+   "tr": "Mfa moe ongâyëm.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Ouvrez un compte épargne en quelques minutes.",
+   "tr": "Ougugan efas nkòbò ntòban a mintòṅ.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Vous pouvez retirer votre épargne à tout moment.",
+   "tr": "Mfag waan, amu mayi wòṅan osë at any moment.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Changer mon code PIN",
+   "tr": "Mod dzama",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Mot de passe oublié ?",
+   "tr": "Mbóg odzo ?",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Paramètres du compte",
+   "tr": "Ngám",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Notifications",
+   "tr": "Ndòg",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Relevé du {date_debut} au {date_fin}",
+   "tr": "Ndò ebòd by {date_debut} ai {date_fin}",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Contacter le service client",
+   "tr": "Contact eyòṅ mbòg",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Le service client est disponible de {heure_debut} à {heure_fin}.",
+   "tr": "Ndò mbòg ayi kuan ai e dzom ziṅ yayi bò a dzoe {heure_debut} ai dzòs {heure_fin}.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Comment changer mon code PIN ?",
+   "tr": "Eyë mod dzam dzama nkukuma?",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "À propos de l'application",
+   "tr": "Dzam da",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Récapitulatif",
+   "tr": "Etoa nkòbò",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Paiement",
+   "tr": "nsómba",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Payer comptant",
+   "tr": "yân nsómba",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Paiement marchand",
+   "tr": "nsómba efatsila-bi",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Salaire reçu",
+   "tr": "maan non",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Transfert réussi",
+   "tr": "ekalan-bi mbonda-mi",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Transfert reçu",
+   "tr": "ekalan-bi bele",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Transaction",
+   "tr": "oyílí",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Argent",
+   "tr": "mòni",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Envoyer",
+   "tr": "lòm",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Envoi",
+   "tr": "nlómán",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Erreur",
+   "tr": "edími",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Message",
+   "tr": "foe",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Merci",
+   "tr": "ngǎn",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Jour",
+   "tr": "amǒs",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Jamais",
+   "tr": "átén",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Nom",
+   "tr": "dzoè",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Personne",
+   "tr": "mot",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Recevoir",
+   "tr": "bẹlẹ",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Payer",
+   "tr": "yân",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Remboursement",
+   "tr": "eyian",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Rembourser",
+   "tr": "dzian",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Téléphone",
+   "tr": "nkúl",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Sécurité",
+   "tr": "mvọẹ",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Information",
+   "tr": "ayemé",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Motif",
+   "tr": "etọm",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Répondre",
+   "tr": "doan",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Partager",
+   "tr": "kab",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Langue",
+   "tr": "oyèm",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Question",
+   "tr": "nsilí",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Vérifier",
+   "tr": "bélẹ",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Confirmer",
+   "tr": "wómolo",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Choisir",
+   "tr": "hàn",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Date",
+   "tr": "abǒk",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Salaire",
+   "tr": "máan",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Heure",
+   "tr": "awula",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Mois",
+   "tr": "ngon",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Eau",
+   "tr": "andím",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Bonjour",
+   "tr": "ovúma aà",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Voir",
+   "tr": "yèn",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Entrer",
+   "tr": "nyî",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Lire",
+   "tr": "lán",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Trouver",
+   "tr": "sọm",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Accepter",
+   "tr": "yébẹ",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Paiement",
+   "tr": "nsómba",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Solde",
+   "tr": "Máan",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Bonjour, {prenom}",
+   "tr": "Ovúma aà, {prenom}",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Frais",
+   "tr": "Nkus",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Bénéficiaire",
+   "tr": "Evéban",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Confirmation",
+   "tr": "Wómolo",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Consulter les frais",
+   "tr": "Yèn nkus",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Effectuer un transfert",
+   "tr": "Bo nlómán",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Transactions récentes",
+   "tr": "Oyílí nkpámàn",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Numéro de compte : {numero}",
+   "tr": "Tàn á elàn : {numero}",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Compte courant",
+   "tr": "Elàn",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Votre compte",
+   "tr": "Elàn",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Solde disponible",
+   "tr": "Máan",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Montant",
+   "tr": "Mfuan",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Succès",
+   "tr": "Akyebé",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Retour",
+   "tr": "Asob",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Modifier",
+   "tr": "Tsénde",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Continuer",
+   "tr": "Bándeba",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Gratuit",
+   "tr": "á zeze",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Opération",
+   "tr": "Oyílí",
+   "status": "valide",
+   "critique": false
+  },
+  {
+   "fr": "Nom du bénéficiaire",
+   "tr": "Dzoè evéban",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Numéro de téléphone",
+   "tr": "Tàn á nkúl",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Motif du transfert",
+   "tr": "Etọm á nlómán",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Frais de transfert",
+   "tr": "Nkus á nlómán",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Nouveau transfert",
+   "tr": "Nlómán nkpámàn",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Confirmer le transfert",
+   "tr": "Wómolo nlómán",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Total débité",
+   "tr": "Ngúma dali",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Total à débiter",
+   "tr": "Ngúma dali",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Montant à envoyer",
+   "tr": "Mfuan lòm",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Solde après opération",
+   "tr": "Máan á mvùs oyílí",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Transfert effectué",
+   "tr": "Nlómán mana",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Consultez votre solde et lancez un transfert en toute sécurité.",
+   "tr": "Vogëlan ai elig dzaan, mikaman ai nkòbò esye ete.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Vérifiez toujours le nom et le numéro du bénéficiaire avant de confirmer un transfert.",
+   "tr": "Tòbëgan hm tsig dzoe ai nkòbò nen, osusua yë na bëkani kalara.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Renseignez les informations du destinataire. Vérifiez toujours le numéro avant de valider.",
+   "tr": "Ndò hm, dzalëgan eyòṅ engakuma nnëm. Këlëg tò nlo, osusua yë na dugan.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Ce bénéficiaire n'a jamais été utilisé sur ce compte. Vérifiez le numéro avant de continuer.",
+   "tr": "Ebii-nyòl dzia andzëki tòbò a ebii dzia. Ndò hm, vëgëlë nkòb osusua yë na anyu.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "J'ai vérifié le nom et le numéro du bénéficiaire.",
+   "tr": "Ndò fë mavòg dzoe ai nkòb nkukuma.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Vérifiez les informations avant de confirmer le transfert.",
+   "tr": "Vëyen mòni, osusua yëm vë kalara nkòbò.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Je confirme que les informations ci-dessus sont correctes.",
+   "tr": "Maya nyè vë e dzom abog te ongabë nkòbò a yob.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Votre transfert a été envoyé avec succès.",
+   "tr": "Ndò hm, efas dzan engalomban a nlo.",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Choisissez le type de transfert et le montant. Les frais sont calculés automatiquement.",
+   "tr": "Hàn nlómán ai mfuan. Nkus ne lán.",
+   "status": "a_confirmer",
+   "critique": true
+  },
+  {
+   "fr": "Type d'opération",
+   "tr": "Oyílí",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Connexion sécurisée",
+   "tr": "Mvọẹ",
+   "status": "a_confirmer",
+   "critique": false
+  },
+  {
+   "fr": "Facture électricité",
+   "tr": "Mvòmbi",
+   "status": "a_confirmer",
+   "critique": false
+  }
+ ]
+}

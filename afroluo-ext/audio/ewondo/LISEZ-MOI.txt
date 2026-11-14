@@ -1,0 +1,3 @@
+Mettre ici les enregistrements audio (mp3, wav, ogg ou m4a) de la locutrice native, un fichier par phrase.
+Nommer chaque fichier avec le numero de la feuille "enregistrements_audio.xlsx" : 001.mp3, 002.mp3, ...
+Puis lancer :  python ajouter_audio.py enregistrements_audio.xlsx
