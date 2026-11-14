@@ -1,0 +1,21 @@
+# Modèles : trop lourds pour Git (limite GitHub : 100 Mo par fichier) -> lien Drive dans le README
+serveur_traduction/modeles_ct2/**/*.bin
+serveur_traduction/modeles_ct2/**/*.onnx
+serveur_traduction/modeles_ct2/**/*.onnx_data
+serveur_traduction/modeles_ct2/**/*.safetensors
+serveur_traduction/modeles_ct2/**/shared_vocabulary.json
+serveur_traduction/modeles_ct2/**/tokenizer.json
+*.zip
+
+# Python / système
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+modeles_ct2/
+*.bin
+*.onnx
+*.onnx_data
+*.safetensors
+*.pt

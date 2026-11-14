@@ -1,0 +1,14 @@
+SERVEUR LOCAL SAFINUM — traduit pour l'extension (Ngiemboon, Ewondo, Bamoun, Douala)
+
+1. Décompresser ce dossier (clic droit -> Extraire tout), par ex. C:\serveur_traduction
+2. Mettre les modèles dans modeles_ct2\<langue>\ (directement, pas dans un sous-dossier) :
+     ngiemboon\  config.json, tokenizer.json, onnx\encoder_model_quantized.onnx, onnx\decoder_model_quantized.onnx
+     ewondo\     config.json, model.bin, shared_vocabulary.json
+     bamoun\     config.json, model.bin, shared_vocabulary.json
+     douala\     config.json, model.bin, shared_vocabulary.json   (ou dossier Hugging Face avec model.safetensors)
+3. Double-clic sur LANCER_SERVEUR.bat. La 1re fois il installe ce qu'il faut (internet). Ensuite tout est hors ligne.
+   Chaque langue chargée affiche « ✓ » et une phrase d'essai. Laisser la fenêtre OUVERTE.
+4. Dans le navigateur : popup de l'extension -> langue -> Traduire.
+
+Sécurité : écoute seulement 127.0.0.1 (cet ordinateur). Aucun texte n'est enregistré ni transmis.
+Python requis : https://www.python.org/downloads/ (cocher « Add python.exe to PATH »).

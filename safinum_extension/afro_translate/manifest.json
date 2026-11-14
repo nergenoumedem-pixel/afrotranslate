@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Safinum — Traduction en langues nationales",
+  "version": "3.0.0",
+  "description": "Traduit les pages financières du français vers le Ngiemboon, l'Ewondo, le Bamoun et le Douala, sans modifier montants, noms ni références. Traduction par un serveur local (127.0.0.1) : rien ne quitte l'ordinateur.",
+  "permissions": [
+    "storage",
+    "scripting",
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Traduire en langue nationale"
+  },
+  "icons": {
+    "16": "icons/i16.png",
+    "48": "icons/i48.png",
+    "128": "icons/i128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "langues.js",
+        "lib/decoderNnh.js",
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": true
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
