@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "AfroLuo – Services financiers en langues nationales",
+  "version": "0.1.0",
+  "description": "Affiche une interface financière en ewondo sans modifier son code source. Les montants, frais et bénéficiaires ne sont jamais modifiés.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "dictionaries/*.json",
+        "audio/*",
+        "languages.json"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "AfroLuo"
+  }
+}

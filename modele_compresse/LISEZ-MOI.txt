@@ -1,0 +1,7 @@
+Modèle de traduction français -> ewondo, compressé (CTranslate2, quantification int8).
+
+Contenu attendu dans ce dossier : model.bin, config.json, shared_vocabulary.json,
+et les fichiers du tokenizer (source.spm, target.spm, tokenizer_config.json, special_tokens_map.json, vocab.json).
+
+Utilisation : voir traduire_local.py à la racine du dépôt.
+Le modèle sert à proposer des traductions ; elles sont relues par un locuteur natif avant d'entrer dans le dictionnaire.

@@ -1,0 +1,18 @@
+<!doctype html><meta charset="utf-8"><body style="width:300px;font:14px system-ui;padding:12px">
+<h3 style="margin:0 0 10px">AfroLuo</h3>
+<label>Langue : <select id="lang"></select></label><br><br>
+<label><input type="checkbox" id="enabled"> Traduction activée</label><br>
+<label><input type="checkbox" id="bilingual"> Afficher le français entre parenthèses</label><br><br>
+<button id="save">Enregistrer</button> <span id="ok"></span>
+<hr>
+<button id="expAll">Exporter les textes à faire valider (CSV)</button><p id="n2" style="margin:4px 0"></p>
+<details style="margin-top:8px"><summary style="cursor:pointer;color:#555">Options avancées</summary>
+<div style="margin-top:6px">
+<label><input type="checkbox" id="useDrafts"> Afficher aussi les traductions à confirmer</label><br>
+<label><input type="checkbox" id="critiques"> Traduire aussi les lignes critiques à confirmer (frais, avertissements)</label><br>
+<label><input type="checkbox" id="underline"> Souligner les traductions à confirmer</label><br>
+<label><input type="checkbox" id="audio"> Bouton 🔊 quand un audio existe</label><br><br>
+<button id="exp">Exporter les textes non traduits de cette page</button><p id="n" style="margin:4px 0"></p>
+<button id="clr">Vider la mémoire</button> <span id="mem"></span>
+</div></details>
+<script src="popup.js"></script>
